@@ -1,2 +1,2 @@
 # Admin-Dashboard
-Live page: https://github.com/mpetrit/Admin-Dashboard
+Live page: https://mpetrit.github.io/Admin-Dashboard
